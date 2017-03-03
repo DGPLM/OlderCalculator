@@ -1,0 +1,181 @@
+[Root]
+Most Recent Package=标准安装软件包 1
+
+
+[Package|展开文件 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Users\Administrator\Desktop\dazuoye\1.0\1
+
+[Package|展开文件 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|展开文件 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|展开文件 1|Files Found]
+
+[Package|展开文件 1|Files Released]
+
+[Package|展开文件 1|Missing Dependency Information]
+
+[Package|展开文件 1|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\comdlg32.ocx=
+
+[Package|展开文件 1|Files Added]
+
+[Package|展开文件 1|Files Removed]
+
+[Package|展开文件 1|Files In Project]
+C:\Users\Administrator\Desktop\dazuoye\last\三线摆测刚体的转动惯量实验数据处理计算器.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+D:\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6CHS.DLL=Yes
+C:\Windows\SysWOW64\comdlg32.ocx=Yes
+C:\Windows\SysWOW64\CMDLGCHS.DLL=Yes
+C:\Windows\SysWOW64\TABCTL32.OCX=Yes
+C:\Windows\SysWOW64\TABCTCHS.DLL=Yes
+
+[Package|展开文件 1|Configure Registry Files]
+Applicable=
+
+[Package|展开文件 1|Configure Remote Servers]
+Applicable=
+
+[Package|展开文件 1|Install Locations]
+C:\Users\Administrator\Desktop\dazuoye\last\三线摆测刚体的转动惯量实验数据处理计算器.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+D:\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6CHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\comdlg32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\CMDLGCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTCHS.DLL=$(WinSysPath)
+
+[Package|展开文件 1|Configure Shared Files]
+Applicable=
+
+[Package|展开文件 1|DepFile]
+DepCabFile=三线摆测刚体的转动惯量实验数据处理计算器.CAB
+DepCabRun=三线摆测刚体的转动惯量实验数据处理计算器.INF
+
+[Package|展开文件 1|Package]
+PackageFolder=C:\Users\Administrator\Desktop\dazuoye\1.0\1
+ProjectFolder=C:\Users\Administrator\Desktop\dazuoye\vb大作业
+ServerSideCab=
+File1=C:\Users\Administrator\Desktop\dazuoye\1.0\1\三线摆测刚体的转动惯量实验数据处理计算器.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|标准安装软件包 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Users\Administrator\Desktop\工业14-2陈继民14024020205程序设计大作业\打包文件
+
+[Package|标准安装软件包 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|标准安装软件包 1|Files Found]
+
+[Package|标准安装软件包 1|Files Released]
+
+[Package|标准安装软件包 1|Missing Dependency Information]
+
+[Package|标准安装软件包 1|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\comdlg32.ocx=
+
+[Package|标准安装软件包 1|Files Added]
+
+[Package|标准安装软件包 1|Files Removed]
+
+[Package|标准安装软件包 1|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+D:\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6CHS.DLL=Yes
+C:\Windows\SysWOW64\comdlg32.ocx=Yes
+C:\Windows\SysWOW64\CMDLGCHS.DLL=Yes
+C:\Windows\SysWOW64\TABCTL32.OCX=Yes
+C:\Windows\SysWOW64\TABCTCHS.DLL=Yes
+D:\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+D:\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Users\Administrator\Desktop\工业14-2陈继民14024020205程序设计大作业\三线摆测刚体的转动惯量实验数据处理计算器.exe=Yes
+
+[Package|标准安装软件包 1|Configure Registry Files]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure Remote Servers]
+Applicable=No
+
+[Package|标准安装软件包 1|Install Locations]
+C:\Users\Administrator\Desktop\dazuoye\last\三线摆测刚体的转动惯量实验数据处理计算器.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+D:\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6CHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\comdlg32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\CMDLGCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTCHS.DLL=$(WinSysPath)
+D:\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Users\Administrator\Desktop\ie142\三线摆测刚体的转动惯量实验数据处理计算器.exe=$(AppPath)
+C:\Users\Administrator\Desktop\工业14-2陈继民14024020205程序设计大作业\三线摆测刚体的转动惯量实验数据处理计算器.exe=$(AppPath)
+
+[Package|标准安装软件包 1|Configure Shared Files]
+Applicable=Yes
+C:\Users\Administrator\Desktop\dazuoye\last\三线摆测刚体的转动惯量实验数据处理计算器.exe=No
+C:\Users\Administrator\Desktop\ie142\三线摆测刚体的转动惯量实验数据处理计算器.exe=No
+C:\Users\Administrator\Desktop\工业14-2陈继民14024020205程序设计大作业\三线摆测刚体的转动惯量实验数据处理计算器.exe=No
+
+[Package|标准安装软件包 1|DepFile]
+DepCabFile=三线摆测刚体的转动惯量实验数据处理计算器.CAB
+DepCabRun=三线摆测刚体的转动惯量实验数据处理计算器.INF
+
+[Package|标准安装软件包 1|Distribution]
+Type=single
+Size=
+Title=三线摆测刚体转动惯量实验数据计算器
+
+[Package|标准安装软件包 1|IconGroups]
+Group0=三线摆测刚体转动惯量实验数据计算器
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|标准安装软件包 1|三线摆测刚体转动惯量实验数据计算器]
+Icon1=三线摆测刚体的转动惯量实验数据处理计算器.exe
+Title1=三线摆测刚体转动惯量实验数据计算器
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|标准安装软件包 1|Package]
+PackageFolder=C:\Users\Administrator\Desktop\工业14-2陈继民14024020205程序设计大作业\打包文件
+ProjectFolder=C:\Users\Administrator\Desktop\新建文件夹 (2)\dazuoye\vb大作业
+ServerSideCab=
+File1=C:\Users\Administrator\Desktop\工业14-2陈继民14024020205程序设计大作业\打包文件\setup.exe
+File2=C:\Users\Administrator\Desktop\工业14-2陈继民14024020205程序设计大作业\打包文件\Setup.Lst
+File3=C:\Users\Administrator\Desktop\工业14-2陈继民14024020205程序设计大作业\打包文件\三线摆测刚体的转动惯量实验数据处理计算器.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
